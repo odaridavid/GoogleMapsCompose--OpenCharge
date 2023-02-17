@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Open Charge</string>
+    <string name="available_charging_points">Available Charging Points %1$d</string>
+    <string name="charging_location">Charging Location</string>
+</resources>
